@@ -2,7 +2,9 @@
 #Program Name: hex2base64.py
 #Program Language: Python
 #Description: Convert a hex string to base64
-#
+#Date: 2/6/2015
+#Due Date: 2/10/2015
+#First Crypto Challenge
 #import
 
 #Store Hex as string value
