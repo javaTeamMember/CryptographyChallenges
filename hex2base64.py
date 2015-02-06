@@ -3,6 +3,9 @@
 #Program Language: Python
 #Description: Convert a hex string to base64
 #
-#
+#import
+
 #Store Hex as string value
 hex = 49276d206b696c6c696e6720796f757220627261696e206c696b65206120706f69736f6e6f7573206d757368726f6f6d
+
+#Convert the hex string to base64
